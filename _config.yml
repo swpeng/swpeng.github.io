@@ -1,0 +1,10 @@
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: swpeng.github.io
+url: http://swpeng.github.io
+feed: /atom.xml
+author_info: <a href="http://swpeng.github.io/">swpeng</a>
